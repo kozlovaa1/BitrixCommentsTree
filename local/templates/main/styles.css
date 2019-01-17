@@ -4,3 +4,15 @@
 .fa-user-circle {
     font-size: 50px;
 }
+.comments .media {
+    padding: 10px;
+}
+.comments>.media {
+    border-radius: 10px;
+}
+.comments>.media:nth-child(n) {
+    background: #ffed6333;
+}
+.comments>.media:nth-child(2n) {
+    background: #53ceff33;
+}
