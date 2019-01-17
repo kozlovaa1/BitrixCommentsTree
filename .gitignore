@@ -1,0 +1,14 @@
+.DS_Store
+Thumbs.db
+/.idea/
+/bitrix/*
+/upload/*
+/logs
+/.gitignore
+/.htaccess
+/urlrewrite.php
+/*.log
+/*.sql
+/*.txt
+/*.xml
+/*.dt
